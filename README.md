@@ -67,11 +67,13 @@ I'm **Noel Shiji**, a 2nd year **B.Tech Electronics & Communication Engineering*
 - ⚠️ Triggers alerts to prevent road accidents
 - 🧠 Built with facial landmark detection algorithms
 
-### 🔒 [StampSafe](https://github.com/noel-shiji/StampSafe)
-> Secure document authentication system
-- 🔐 Ensures document integrity and authenticity
-- 🐍 Built with **Python**
-- 📄 Prevents stamp/seal forgery in official documents
+### 🚁 [StampSafe — Stampede Prediction Drone](https://github.com/noel-shiji/StampSafe)
+> AI-powered drone system that predicts and prevents crowd stampedes **3 minutes before they occur**
+- 🧠 Uses **YOLOv8** for real-time crowd density detection and behaviour analysis
+- 🍓 Runs entirely on **Raspberry Pi** — fully edge-deployed, no cloud dependency
+- 📡 Monitors crowd flow patterns and predicts dangerous compression zones early
+- ⏱️ Issues early warnings **3 minutes in advance** to enable timely evacuation
+- 🏟️ Designed for large public events, religious gatherings, and high-density venues
 
 ---
 
